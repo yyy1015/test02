@@ -7,5 +7,9 @@ public class Main {
         System.out.println("HelloWorld!");
  System.out.println("aaa");
  System.out.println("bbb");
+System.out.println("bbb");
+System.out.println("bbb");
+System.out.println("bbb");
+System.out.println("bbb1123123");
     }
 }
